@@ -1,0 +1,4 @@
+RiskCategory,num_clients,churn_rate
+Low risk,242,0.01652892561983471
+Medium risk,42,0.023809523809523808
+High risk,16,0.1875

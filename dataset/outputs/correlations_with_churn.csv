@@ -1,0 +1,4 @@
+variable,correlation_with_churn
+SatisfactionScore,-0.17899509292646612
+TenureMonths,0.00594939565142242
+NumTicketsLast6M,0.10347130639102853

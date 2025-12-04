@@ -1,0 +1,14 @@
+CustomerID,RiskScore,RiskCategory,RetentionOfferCost,ExpectedMarginNext6M,RetentionProbIfOffer,NetValueIfOffer,PlanType,Segment,Region,Churn
+C175,6,High risk,12.69,619.25,0.7,420.78499999999997,Premium,Individual,Centru,0
+C148,5,High risk,11.0,417.72,0.7,281.404,Premium,Individual,Chișinău,1
+C286,6,High risk,49.6,393.14,0.7,225.59799999999998,Premium,Individual,Nord,0
+C099,6,High risk,50.62,285.38,0.7,149.146,Standard,Individual,Chișinău,0
+C250,5,High risk,29.28,233.33,0.7,134.051,Standard,SME,Chișinău,0
+C004,5,High risk,33.83,205.34,0.7,109.908,Basic,Individual,Sud,0
+C118,5,High risk,39.16,150.17,0.7,65.95899999999999,Standard,Individual,Centru,0
+C079,7,High risk,33.63,111.14,0.7,44.168,Basic,Individual,Chișinău,1
+C155,6,High risk,43.09,123.91,0.7,43.64699999999999,Standard,SME,Nord,0
+C196,5,High risk,26.29,75.7,0.7,26.700000000000003,Standard,Individual,Centru,0
+C280,6,High risk,15.71,58.92,0.7,25.534,Basic,SME,Centru,0
+C290,5,High risk,45.95,98.33,0.7,22.880999999999986,Standard,Individual,Nord,1
+C144,5,High risk,37.23,54.14,0.7,0.6679999999999993,Standard,Individual,Centru,0
